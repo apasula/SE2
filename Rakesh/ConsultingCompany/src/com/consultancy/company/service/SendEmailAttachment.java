@@ -9,7 +9,7 @@ public class SendEmailAttachment {
 
 	public void sendEmail(String to, String filename) {
 		
-		final String user = "pradeepcharan999@gmail.com";
+		final String user = "";
 		final String password = "";
 		String host = "smtp.gmail.com";
 
